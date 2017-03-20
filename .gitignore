@@ -1,4 +1,6 @@
 demo/node_modules/
+de_modules/
 dist/
+demo/dist/
 npm-debug.log
 .idea
