@@ -4,7 +4,7 @@
 import picker from './picker.vue'
 import pickerItem from './picker-item.vue'
 
-export default{
+module.exports = {
     picker,
     pickerItem
 }
