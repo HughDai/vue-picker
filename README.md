@@ -9,5 +9,5 @@ ps:缓动函数抄袭了mui picker
 ```bash
     npm install --save vue-ios-picker
 ```
-#demo
+# demo
 ![](./demo.png)
