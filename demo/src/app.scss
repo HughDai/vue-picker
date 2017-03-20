@@ -1,0 +1,40 @@
+html {
+  font-size: 150%;
+  width: 100%;
+}
+
+body {
+  font-family: Helvetica Neue, Microsoft YaHei, Helvetica, STHeiTi, sans-serif;
+  font-weight: normal;
+  background-color: #f5f5f5;
+}
+
+@media only screen and (min-width: 320px) {
+  html {
+    font-size: 75% !important;
+  }
+}
+
+@media only screen and (min-width: 360px) and (max-width: 374px) {
+  html {
+    font-size: 84% !important;
+  }
+}
+
+@media only screen and (min-width: 375px) {
+  html {
+    font-size: 87.89% !important;
+  }
+}
+
+@media only screen and (min-width: 414px) {
+  html {
+    font-size: 97.03% !important;
+  }
+}
+
+@media only screen and (min-width: 641px) {
+  html {
+    font-size: 125% !important;
+  }
+}
